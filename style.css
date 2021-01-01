@@ -145,6 +145,11 @@ article {
   aspect-ratio: 16 / 9;
 }
 
+p span {
+  background-color: rgba(0, 0, 0, 0.07);
+  margin-bottom: 4px;
+}
+
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 38px;
